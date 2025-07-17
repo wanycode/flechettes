@@ -1,0 +1,19 @@
+h1
+{
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+p
+{
+	text-align: center;
+    color: white
+}
+body
+{
+	background-image: url("M.png")
+}
+a
+{
+    color: white
+}
