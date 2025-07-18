@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>Les duos légendaires</title>
+	<link rel="stylesheet" href="tm.css"/>
+</head>
+<body>
+<h1> Les duos légendaires </h1>
+</head> 
+</body>
+<p> Les Los Angeles Lakers ont connu plusieurs duos légendaires.<br> Le duo <strong>Magic Johnson et Kareem Abdul-Jabbar</strong> a dominé les années 80 avec cinq titres NBA grâce à la <strong>vision </strong>de Magic et la <strong>puissance </strong>de Kareem.<br> Plus tard, <strong>Shaquille O'Neal et Kobe Bryant</strong> ont formé un duo redoutable, remportant trois titres consécutifs de 2000 à 2002, avec Shaq <strong>dominant sous le panier</strong> et Kobe en <strong>attaque</strong>.<br> Plus récemment, <strong>LeBron James et Anthony Davis</strong> ont mené les Lakers à leur <strong>17e</strong> titre en 2020.<br> Ces duos ont marqué l’histoire des Lakers et cela restera dans les mémoires.
+</p>
+<center>
+<img src="dd.jpg"alt="Image" height="300" width="500">
+<br> <a href="index.html">Retour à la page d'acceuil</a>
+</center>
